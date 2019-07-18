@@ -33,6 +33,10 @@ As of v0.60 certain android libraries require something called 'jetifier' to com
 npm install -g jetifier
 ```
 
+# A case for Expo
+It might have it's drawbacks, but for speed and reliability, I would highly recommend using expo. It takes away the frustration of getting build configurations working. It took me a whole day to work through the bugs of my android project on ios. With expo you can debug during development on both devices simultaneously. The newest version of expo supports sqlite, react Hooks, and typescript OUT OF THE BOX. 
+
+
 
 
 
